@@ -83,6 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Container(
               margin: const EdgeInsets.fromLTRB(0, 10, 0, 0),
               child: const Text(
+
                 'Donate Blood',style: TextStyle(color: Colors.black,fontSize: 20,fontWeight: FontWeight.bold ),
               ),
             ),
